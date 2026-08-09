@@ -1,2 +1,15 @@
 # zhumeng-arabic-skills
-逐梦阿语小程序配套 WorkBuddy skills：内容生成/专家审核/公众号同步/UI升级/云函数部署/阿语字体修复
+
+本仓库收录以下 WorkBuddy skill（用户自定义）：
+
+- `sync-wechat/`
+- `upgrade-page-ui/`
+- `deploy-cloud/`
+- `fix-arabic-font/`
+- `review-content/`
+- `add-reading/`
+- `add-vocab/`
+- `add-listening/`
+- `add-walkman/`
+
+> 上传前已对服务器 IP、密钥等敏感信息做脱敏处理。
